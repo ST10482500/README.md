@@ -1,0 +1,231 @@
+Chelsea Fan Club SA – Website Development Project
+Student: Wayrren Kerspuy
+Student Number: ST10482500
+Subject: WEBDE5020
+Lecturer: Mr. R.Kobeni
+~ Project Overview
+
+The Chelsea Fan Club SA website is a multi-page fan platform designed to provide South African Chelsea supporters with club news, player profiles, images, contact options, and general community interaction.
+
+The project was developed across three parts following course requirements:
+
+Part 1: HTML structure, page creation, content research, and sitemap.
+
+Part 2: Full CSS styling, layout, branding, mobile responsiveness, and improved design.
+
+Part 3: JavaScript functionality, form validation, SEO implementation, improved interactivity, animations, maps, search features, and advanced UI behaviour.
+
+This README contains the project documentation, changelog, technical overview, and references used throughout the assignment.
+
+~ Folder & File Structure
+/root-folder
+│
+├── index.html
+├── about.html
+├── players.html
+├── gallery.html
+├── news.html
+├── contact.html
+├── enquiry.html
+│
+├── /css
+│     └── style.css
+│
+├── /js
+│     └── script.js
+│
+└── /images
+      ├── chelsea1.jpg
+      ├── chelsea2.jpg
+      ├── chelsea3.jpg
+      └── logo.png
+
+~ Website Goals & Objectives
+
+Provide updated Chelsea news for South African fans.
+
+Showcase team information and match-related content.
+
+Improve community interaction using enquiry and contact forms.
+
+Build an engaging, responsive, visually appealing website.
+
+Add dynamic JavaScript-powered interaction for a modern experience.
+
+Implement strong SEO best practices for improved discoverability.
+
+~ Key Features & Functionality
+Part 1
+
+Sitemap and website structure planned.
+
+Five fully functional HTML pages created.
+
+Content research completed for all pages.
+
+Basic navigation and page linking.
+
+Part 2
+
+Full CSS styling with colour scheme and typography.
+
+Brand theme inspired by Chelsea FC blue (#034694).
+
+Responsive layout with Flexbox/Grid.
+
+Hover effects, improved spacing, and legibility.
+
+Styled header, footer, gallery, cards, and sections.
+
+Part 3 (Full JavaScript & SEO Enhancements)
+
+~JavaScript Interactivity Added
+
+Accordion sections for FAQ or news items.
+
+Search bar to filter players or news.
+
+Lightbox gallery pop-up for images.
+
+Animation effects using CSS + JS triggers.
+
+Dynamic content updating (e.g., loading players list).
+
+Scroll-to-top button.
+
+Mobile navigation toggle.
+
+~ Form Validation Added
+
+Contact form validation using JavaScript.
+
+Enquiry form validation for correct format:
+
+Name
+
+Email
+
+Message
+
+Phone number
+
+Drop-down enquiry reason
+
+Error messages and success confirmation.
+
+Required fields defined using HTML5 attributes.
+
+✔ SEO Improvements Implemented
+
+Meta descriptions for all pages.
+
+Structured H1, H2 hierarchy.
+
+Alt text added to all images.
+
+Clean, semantic HTML tags used (header, nav, main, footer).
+
+Mobile responsive viewport meta tag.
+
+Internal linking between pages.
+
+Descriptive filenames for images.
+
+Added robots.txt and sitemap.xml.
+
+~ Additional Enhancements
+
+Interactive map (Leaflet or Google Maps).
+
+Smooth scrolling behaviour.
+
+Page speed improvements (compressed images).
+
+ ~Timeline & Milestones:
+Task	Date Completed
+Part 1 – Structure & Research	- Completed
+Part 2 – Styling & Design	- Completed
+Part 3 – JavaScript & SEO	- Completed
+README.md Final	- Completed
+GitHub Repository Setup	- Completed
+Final Submission	Pending
+ Technologies Used:
+
+HTML5
+
+CSS3 (Flexbox, Grid, Animations)
+
+JavaScript (ES6)
+
+Leaflet / Google Maps API
+
+Git & GitHub
+
+VS Code / Any IDE
+
+ ~Changelog:
+Based on Part 2 Feedback
+
+Corrected navigation alignment.
+
+Improved colour contrast for accessibility.
+
+Made layout responsive for mobile & tablets.
+
+Improved spacing and white space usage.
+
+Fixed unstyled buttons.
+
+Improved gallery structure.
+
+Ensured HTML validation passes (W3C checker).
+
+New Changes in Part 3
+
+Added JavaScript accordion system.
+
+Added search input to filter players/news.
+
+Added dynamic content loading from JS arrays.
+
+Added form validation (contact + enquiry).
+
+Added popup lightbox for gallery images.
+
+Added page animations and transitions.
+
+Added interactive map with multiple locations.
+
+Added SEO improvements:
+
+meta tags
+
+alt tags
+
+clean URL naming
+
+header hierarchy
+
+robots.txt, sitemap.xml
+
+Fixed performance issues and optimised images.
+
+Updated all pages with consistent structure.
+
+~ References:
+
+Mozilla. 2024. HTML Forms — Web Documentation. Available at: https://developer.mozilla.org/en-US/docs/Learn/Forms (Accessed: 15 October 2025).
+
+Mozilla. 2024. JavaScript — DOM Manipulation Guide. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model (Accessed: 15 October 2025).
+
+Mozilla. 2024. CSS Transitions and Animations. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations (Accessed: 15 October 2025).
+
+W3Schools. 2025. HTML5 Semantic Elements. Available at: https://www.w3schools.com/html/html5_semantic_elements.asp (Accessed: 15 October 2025).
+
+W3Schools. 2025. CSS Flexbox and Grid Layout. Available at: https://www.w3schools.com/css/css3_flexbox.asp (Accessed: 15 October 2025).
+
+LeafletJS. 2024. Interactive Maps for the Web. Available at: https://leafletjs.com/ (Accessed: 15 October 2025).
+
+Google Developers. 2025. SEO Starter Guide. Available at: https://developers.google.com/search/docs/beginner/seo-starter-guide (Accessed: 15 October 2025).
+
+OpenAI ChatGPT. 2025. Code generation assistance for HTML, CSS, and JavaScript for educational use.
